@@ -11,3 +11,5 @@ The harder part in this project is to programm the PIC micro-controller accordin
 
 #### Look what we have created !
 
+![IMG_6064](https://user-images.githubusercontent.com/45971162/56819938-66143a80-6868-11e9-806e-0cd72579df5a.jpg)
+
