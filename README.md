@@ -8,3 +8,6 @@ At firts, we segmented the whole project into few segments. Namely,
   4. Programming
   
 The harder part in this project is to programm the PIC micro-controller according to the stratergic algorithm that we have constructed. At firts we tried to implement a unbeatale algorithm. But due to memory and computing limitations in the PIC micro-controller we had to change the approach. However, we were able to construct and programm a algorithm with a robot winning probability over 65%.
+
+#### Look what we have created !
+
